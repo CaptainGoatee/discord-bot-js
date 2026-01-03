@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "discord.js": "^14.25.1",
     "goated-discord-handler": "^1.0.5",
     "term-logger": "^1.3.1"
   }
