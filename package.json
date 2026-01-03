@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "goated-discord-handler": "^1.0.5",
+    "term-logger": "^1.3.1"
+  }
+}

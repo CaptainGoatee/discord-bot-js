@@ -1,0 +1,69 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Runtime / process files
+*.pid
+*.pid.lock
+*.seed
+*.node_repl_history
+
+# Build output
+dist/
+build/
+out/
+lib/
+tmp/
+temp/
+
+# Coverage / test output
+coverage/
+.nyc_output/
+
+# Cache directories
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/unplugged/
+
+# TypeScript
+*.tsbuildinfo
+
+# Editor/IDE
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Optional: Discord/pm2 style local config/state (keep if you use them)
+pm2*.log
+package-lock.json
+
