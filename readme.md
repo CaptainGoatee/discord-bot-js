@@ -25,6 +25,7 @@ export DISCORD_BOT_TOKEN="..."
 export DISCORD_TEST_GUILD_ID="..."
 export DISCORD_DEVELOPER_ID="..."
 ```
+OR
 
 .env (DOTENV):
 
